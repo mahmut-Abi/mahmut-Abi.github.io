@@ -1,3 +1,10 @@
+---
+title: 有雀可视化部署
+date: 2022-12-16 18:07:00 +/-TTTT
+categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+tags: [test-tag]     # TAG names should always be lowercase
+---
+
 # 有雀可视化部署
 
 ## 需求
